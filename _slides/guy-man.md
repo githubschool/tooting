@@ -1,4 +1,4 @@
-This is my first cahnge
+This is my first change
 
 This is my second change
 
